@@ -18,3 +18,8 @@ document.write(age);
 document.write(country);
 
 console.log(Number("23"));
+
+var name = "shohan";
+var age = "20";
+
+document.write("Name : " + name + " and Age : " + age);
