@@ -3,4 +3,16 @@ alert("I am Interested javascript");
 //document.write("This is my <br>");
 
 document.write("I am Shohanur Rahman.<br> ");
-document.write("I am Student of Northden Univesity of Bangladesh");
+document.write("I am Student of Northden Univesity of Bangladesh<br>");
+
+//var name = "shohan";
+
+var name, age, country;
+
+name = "shohan<br>";
+age = "21<br>";
+country = "Bangladesh";
+
+document.write(name);
+document.write(age);
+document.write(country);
