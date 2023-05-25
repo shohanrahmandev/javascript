@@ -11,8 +11,10 @@ var name, age, country;
 
 name = "shohan<br>";
 age = "21<br>";
-country = "Bangladesh";
+country = "Bangladesh<br>";
 
 document.write(name);
 document.write(age);
 document.write(country);
+
+console.log(Number("23"));
