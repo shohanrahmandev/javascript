@@ -20,6 +20,9 @@ document.write(country);
 console.log(Number("23"));
 
 var name = "shohan";
-var age = "20";
+var age = "20 <br>";
 
 document.write("Name : " + name + " and Age : " + age);
+
+var text = "shohan";
+document.write("the charector = " + text.length);
