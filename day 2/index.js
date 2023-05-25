@@ -26,3 +26,6 @@ document.write("Name : " + name + " and Age : " + age);
 
 var text = "shohan";
 document.write("the charector = " + text.length);
+
+var name = prompt("Enter the name");
+document.write(name);
