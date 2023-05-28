@@ -3,3 +3,5 @@ document.write(text1);
 
 var text2 = prompt("Enter the Last Name :");
 document.write(text2);
+
+document.write(text1 + text2);
