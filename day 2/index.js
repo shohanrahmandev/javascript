@@ -24,8 +24,8 @@ var age = "20 <br>";
 
 document.write("Name : " + name + " and Age : " + age);
 
-var text = "shohan<br>";
+var text = "shohan ";
 document.write("the charector = " + text.length);
 
-var name = prompt("Enter the name");
+var name = prompt("<br>Enter the name");
 document.write(name);
