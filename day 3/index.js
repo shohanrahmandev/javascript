@@ -11,3 +11,5 @@ var text = text1 + text2;
 document.write("<br>The name of len :" + text.length);
 
 document.write("<br>" + text.toUpperCase());
+
+document.write(text.slice(2));
